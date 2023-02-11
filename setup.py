@@ -8,7 +8,7 @@ setup(
     author='Looq',
     author_email='looqifi@gmail.com',
     url='https://github.com/looqify/Instac',
-    download_url='https://github.com/looqify/Instac/archive/refs/tags/v_02.tar.gz',
+    download_url='https://github.com/looqify/Instac/archive/refs/tags/v1.tar.gz',
     keywords=['looq'],
     install_requires=[
         'pycryptodomex',
